@@ -1,18 +1,18 @@
 # Quntium-Data-Analytics-Virtual-Internship
 Completed this project as a part of Quantium Data Analytics Virtual internship.
-Tools used : RStudio, Excel
+
+Tools used : Excel , RStudio
+
 Chip Data Analysis
 
 Business Task : In order to increase the sale revenue let’s Understand types of customers who are frequent shoppers of chips and their purchasing behavior within the region.
 
-Stakeholders : category manager for chips , manager Zilinka, analytics team
+Stakeholders : category manager for chips , manager, analytics team
 
 Goals : 
 Increase revenue.
 Better understand customer behavior.
 Which category of customers buy more chips?
-
-Tools used : Excel , RStudio
 
 Prepare data for Analysis:
 Data Cleaning :
